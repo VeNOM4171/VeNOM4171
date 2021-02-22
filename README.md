@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **sudipk417@gmail.com**
 
+- 👨‍💻 My Portfolio [https://sudip-karmakar.netlify.app/home](https://sudip-karmakar.netlify.app/home)
+
+- 📝 I write articles on [https://sudip-karmakar.blogspot.com/2021/02/npm-is-good-friend-of-every-web_22.html](https://sudip-karmakar.blogspot.com/2021/02/npm-is-good-friend-of-every-web_22.html)
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/venom4171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="venom4171" height="30" width="40" /></a>
