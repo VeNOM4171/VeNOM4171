@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **sudipk417@gmail.com**
 
-- 👨‍💻 My Portfolio [https://sudip-karmakar.netlify.app/home](https://sudip-karmakar.netlify.app/home)
+- 👨‍💻 My portfolio all my projects are Listed here [https://sudip-karmakar.netlify.app/home](https://sudip-karmakar.netlify.app/)
 
-- 📝 I write articles on [https://sudip-karmakar.blogspot.com/2021/02/npm-is-good-friend-of-every-web_22.html](https://sudip-karmakar.blogspot.com/2021/02/npm-is-good-friend-of-every-web_22.html)
+- 📝 I write articles on [https://sudip-karmakar.blogspot.com/](https://sudip-karmakar.blogspot.com/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
