@@ -17,7 +17,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/venom4171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="venom4171" height="30" width="40" /></a>
+<a href="https://dev.to/venom4171">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karmakar Sudip S.'s DEV Community Profile" height="30" width="30">
+</a>
 <a href="https://linkedin.com/in/sudip-karmakar4171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudip-karmakar4171" height="30" width="40" /></a>
 </p>
 
