@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom4171" alt="venom4171" /> </p>
 
-- 🔭 I’m currently working on **AI Based Attendance Capturing System**
+- 🔭 I’m currently working on **---**
 
-- 🌱 I’m currently learning **MongoDB, NoSQL**
+- 🌱 I’m currently learning **Angular Js, TypeScript**
 
 - 💬 Ask me about **ReactJs, NodeJs, ExpressJs**
 
