@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sudip Karmakar</h1>
-<h3 align="center">Like to Find Solutions, Learning New things daily and upgrading My self in My Journey to Become A FullStack Developer.</h3>
+<h3 align="center">Like to Find Solutions, Learning New things daily and upgrading Myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom4171" alt="venom4171" /> </p>
 
